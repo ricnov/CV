@@ -10,31 +10,37 @@ Detailed CV
 - Working with external libraries: imports, operator overloading
 
 ## Machine Learning
-1. Data exploration
-2. Model Validation: measure the performance of your model 
-3. Underfitting and overfitting 
-4. Random forest
-5. Missing values
-6. Categorical variables
-7. Pipeline
-8. Cross-validation
-9. XGBoost
-10. Data leakage
+- Data exploration
+- Model Validation: measure the performance of your model 
+- Underfitting and overfitting 
+- Random forest
+- Missing values
+- Categorical variables
+- Pipeline
+- Cross-validation
+- XGBoost
+- Data leakage
 
 ## Data Visualization
-1. Line charts
-2. Bar charts and heatmaps
-3. Scatter Plots
-4. Histograms and density plots
-5. Plot types and custom style
+- Line charts
+- Bar charts and heatmaps
+- Scatter Plots
+- Histograms and density plots
+- Plot types and custom style
 
 ## Pandas
-1. Creating, reading and writing: dataframe and series
-2. Indexing, Selecting and assigning
-3. Summary functions and maps
-4. Grouping and sorting
-5. Data types and missing values 
-6. Renaming and combining
+- Creating, reading and writing: dataframe and series
+- Indexing, Selecting and assigning
+- Summary functions and maps
+- Grouping and sorting
+- Data types and missing values 
+- Renaming and combining
+
+## Feature Engineering
+- Baseline model
+- Categorical encodings
+- Feature generation
+- Feature selection
 
 
 

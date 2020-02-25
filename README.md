@@ -20,6 +20,11 @@ Detailed CV
 - Cross-validation
 - XGBoost
 - Data leakage
+- Cases for model insights
+- Permutation features
+- Partial plots
+- SHAP values
+- Aggregate SHAP values
 
 ## Data Visualization
 - Line charts
@@ -42,5 +47,36 @@ Detailed CV
 - Feature generation
 - Feature selection
 
+## Deep Learning
+- Deep learning for Computer Vision
+- Convolutions
+- Tensorflow and Keras
+- Transfer Learning
+- Data Augmentation
+- Stochastic Gradient Descent and Back-Propagation
+- Models without Transfer Learning
+- Dropout and Strides for larger models
+
+## SQL
+- Handling big datasets with BigQuery and SQL
+- Select, From, Where
+- Group by, Having, Count
+- Order by
+- As, With
+- Joining data
+- JOINs and UNIONs
+- Analytic Functions 
+- Nested and repeated data
+- Efficient queries
+
+## Geospatial Analysis
+- Coordinate reference systems
+- Interactive maps
+- Manipulating geospatial data
+- Proximity analysis
+
+## Natural Language Process
+- Text classification
+- Word vectors
 
 

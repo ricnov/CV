@@ -1,6 +1,41 @@
 # CV
 Detailed CV
 
+## Numerical linear algebra
+- Linear systems of equations
+- Eigenvalue problems
+- Linear programming (linear optimization)
+- Techniques for large, sparse problems
+
+## Numerical analysis
+- Function evaluation
+- Automatic and numerical differentiation
+- Interpolation
+- Approximation (Padé, least squares, radial basis functions)
+- Integration (univariate, multivariate, Fourier transform)
+- Special functions
+- Nonlinear systems of equations
+- Optimization = nonlinear programming
+- Techniques for large, sparse problems
+- Numerical data analysis (= numerical statistics)
+
+## Visualization (2D and 3D computational geometry)
+- Parameter estimation (least squares, maximum likelihood)
+- Prediction
+- Classification
+- Time series analysis (signal processing, filtering, time correlations, spectral analysis)
+- Categorical time series (hidden Markov models)
+- Random numbers and Monte Carlo methods
+- Techniques for large, sparse problems
+- Numerical functional analysis
+
+## Ordinary differential equations (initial value problems, boundary value problems, eigenvalue problems, stability)
+- Techniques for large problems
+- Partial differential equations (finite differences, finite elements, boundary elements, mesh generation, adaptive meshes)
+- Stochastic differential equations
+- Integral equations (and regularization)
+- Non-numerical algorithms
+
 ## Python
 - Calling functions and defining our own, and using Python's builtin documentation
 - Using booleans for branching logic

@@ -114,4 +114,6 @@ Detailed CV
 - Text classification
 - Word vectors
 
+## Extra
+- https://www.codewars.com/users/istwine/stats
 

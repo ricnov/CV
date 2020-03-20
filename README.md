@@ -114,6 +114,14 @@ Detailed CV
 - Text classification
 - Word vectors
 
+## Responsive Web Design
+- Basic HTML and HTML5
+- Basic CSS
+- Applied Visual Design
+- Applied Accessibility
+- CSS Flexbox
+- CSS Grid
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 

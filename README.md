@@ -121,6 +121,7 @@ Detailed CV
 - Applied Accessibility
 - CSS Flexbox
 - CSS Grid
+- https://www.freecodecamp.org/certification/istwine/responsive-web-design
 
 ## Extra
 - https://www.codewars.com/users/istwine/stats

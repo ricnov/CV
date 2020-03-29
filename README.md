@@ -1,5 +1,4 @@
-# CV
-Detailed CV
+# Extended CV
 
 ## Numerical linear algebra
 - Linear systems of equations
@@ -122,6 +121,25 @@ Detailed CV
 - CSS Flexbox
 - CSS Grid
 - https://www.freecodecamp.org/certification/istwine/responsive-web-design
+
+## Scientific Computing and Python for Data Science
+- Program flow and data structures
+- Data structures, algorithms and classes
+- Data formats
+- Multi-dimensional arrays and vectorization in NumPy
+- DataFrame, Series, data ingestion and transformation with pandas
+- Data aggregation in pandas
+- SQL and Object-Relational Mapping
+- Data munging
+
+## Machine Learning and Statistical Analysis
+- Regression and classification
+- Metrics and overfitting
+- Model selection
+- Principal Component Analysis and Dimensionality Reduction, feature engineering
+- Statistical methods and nonparametric analysis, probability distributions
+- Ensemble methods
+- Support Vector Machine and Natural Language Processing
 
 ## Extra
 - https://www.codewars.com/users/istwine/stats

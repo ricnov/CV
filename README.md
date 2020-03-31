@@ -42,6 +42,22 @@
 - Loops and list comprehensions
 - Strings and dictionaries
 - Working with external libraries: imports, operator overloading
+- Python syntax
+- Statements and expressions
+- Control flow
+- Data types
+- Sequences
+- Dictionaries and sets
+- Functions
+- Generators and iterators
+- Classes
+- Exception handling
+- Input / output
+- Complex example
+- Modules and Packages
+- Namespaces and scoping
+- Text processing
+- System functions
 
 ## Machine Learning
 - Data exploration

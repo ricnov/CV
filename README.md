@@ -158,7 +158,7 @@
 - Support Vector Machine and Natural Language Processing
 
 ## DataCamp
-- https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4
+- https://www.datacamp.com/statement-of-accomplishment/course/25e15f6a7968d20b49d29f55eb6e5c4542f88db6
 
 ## Extra
 - https://www.codewars.com/users/istwine/stats

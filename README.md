@@ -157,8 +157,8 @@
 - Ensemble methods
 - Support Vector Machine and Natural Language Processing
 
-## DataCamp
-# Introduction to Python
+# DataCamp
+## Introduction to Python
 - Python Basics
 - Python Lists
 - Functions and Packages

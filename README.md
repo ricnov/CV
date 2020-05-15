@@ -158,6 +158,12 @@
 - Support Vector Machine and Natural Language Processing
 
 ## DataCamp
+# Introduction to Python
+- Python Basics
+- Python Lists
+- Functions and Packages
+- Numpy
+
 - https://www.datacamp.com/statement-of-accomplishment/course/25e15f6a7968d20b49d29f55eb6e5c4542f88db6
 
 ## Extra

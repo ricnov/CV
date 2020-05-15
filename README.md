@@ -157,6 +157,9 @@
 - Ensemble methods
 - Support Vector Machine and Natural Language Processing
 
+## DataCamp
+- https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

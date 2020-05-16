@@ -165,6 +165,13 @@
 - Numpy
 - https://www.datacamp.com/statement-of-accomplishment/course/25e15f6a7968d20b49d29f55eb6e5c4542f88db6
 
+## Intermediate Python
+- Matplotlib
+- Dictionaries & Pandas
+- Logic, Control Flow and Filtering
+- Loops
+- https://www.datacamp.com/statement-of-accomplishment/course/1249f735e9a51c7ea7d95738027f9968fad410d5
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

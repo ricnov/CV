@@ -185,6 +185,12 @@
 - Merging data
 - https://www.datacamp.com/statement-of-accomplishment/course/ab4f829dca07ecce5b5bb7745a6c0ec01508db8f
 
+## Introduction to Data Visualization with Matplotlib
+- Introduction to Matplotlib
+- Plotting time-series
+- Quantitative comparisons and statistical visualizations
+- Sharing visualizations with others
+- 
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

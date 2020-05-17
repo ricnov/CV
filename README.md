@@ -179,6 +179,12 @@
 - Creating and Visualizing DataFrames
 - https://www.datacamp.com/statement-of-accomplishment/course/1e50ed013cc19f82e48e664511481dd329b755f0
 
+## Merging DataFrames with Pandas
+- Preparing data
+- Concatenating data
+- Merging data
+- https://www.datacamp.com/statement-of-accomplishment/course/ab4f829dca07ecce5b5bb7745a6c0ec01508db8f
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

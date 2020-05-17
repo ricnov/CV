@@ -190,7 +190,21 @@
 - Plotting time-series
 - Quantitative comparisons and statistical visualizations
 - Sharing visualizations with others
-- 
+- https://www.datacamp.com/statement-of-accomplishment/course/20ff32aa696ff597ee51aea37030046b417281a8
+
+## Introduction to Data Visualization with Seaborn
+- Introduction to Seaborn
+- Visualizing Two Quantitative Variables
+- Visualizing a Categorical and a Quantitative Variable
+- Customizing Seaborn Plots
+- https://www.datacamp.com/statement-of-accomplishment/course/b4d85923e5de1257becd517b4b73b89ae848e9db
+
+## Python Data Science Toolbox
+- Writing your own functions
+- Default arguments, variable-length arguments and scope
+- Lambda functions and error-handling
+- https://www.datacamp.com/statement-of-accomplishment/course/a61dae84fb58c40326ea89e960c249d69914e962
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

@@ -205,6 +205,20 @@
 - Lambda functions and error-handling
 - https://www.datacamp.com/statement-of-accomplishment/course/a61dae84fb58c40326ea89e960c249d69914e962
 
+## Python Data Science Toolbox 2
+- Using iterators in Python
+- List comprehensions and generators
+- https://www.datacamp.com/statement-of-accomplishment/course/15d388ccf67d4a059f2ed8c173bbfeb6833aa08a
+
+## Intermediate Data Visualization with Seaborn
+- Introduction to Seaborn
+- Customizing Seaborn Plots
+- Additional Plot Types
+- Creating Plots on Data Aware Grids
+- https://www.datacamp.com/statement-of-accomplishment/course/087ee7be07030815d90886634559d7e12be44112
+
+
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

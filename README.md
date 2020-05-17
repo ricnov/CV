@@ -172,6 +172,13 @@
 - Loops
 - https://www.datacamp.com/statement-of-accomplishment/course/1249f735e9a51c7ea7d95738027f9968fad410d5
 
+## Data Manipulation with Pandas
+- Transforming Data
+- Aggregating Data
+- Slicing and indexing
+- Creating and Visualizing DataFrames
+- https://www.datacamp.com/statement-of-accomplishment/course/1e50ed013cc19f82e48e664511481dd329b755f0
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

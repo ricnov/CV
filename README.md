@@ -217,7 +217,24 @@
 - Creating Plots on Data Aware Grids
 - https://www.datacamp.com/statement-of-accomplishment/course/087ee7be07030815d90886634559d7e12be44112
 
+## Introduction to Importing Data in Python
+- Introduction and flat files
+- Importing data from other file types
+- Working with relational databases in Python
+- https://www.datacamp.com/statement-of-accomplishment/course/aed443aa02c368ff5b256c29162552a8880d52a1
 
+## Intermediate Importing Data in Python
+- Importing data from the Internet
+- Interacting with APIs to import data from the web
+- Diving deep into the Twitter API
+- https://www.datacamp.com/statement-of-accomplishment/course/81505c3267b1eb11f0bf8d0b950dac77742699d1
+
+## Data Cleaning in Python
+- Common data problems
+- Text and categorical data problems
+- Advanced data problems
+- Record linkage
+- https://www.datacamp.com/statement-of-accomplishment/course/c69b503e0fcf40376d854b95d20f11b5e096ecf0
 
 ## Extra
 - https://www.codewars.com/users/istwine/stats

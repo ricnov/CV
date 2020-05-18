@@ -299,7 +299,9 @@
 - Visualization with hierarchical clustering and t-SNE
 - Decorrelating your data and dimension reduction
 - Discovering interpretable features
-- 
+- https://www.datacamp.com/statement-of-accomplishment/course/e4d104a7675a916c87109b712dd30eb57fad2d08
+
+### 
 
 
 ## Extra

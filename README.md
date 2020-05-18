@@ -172,6 +172,12 @@
 - Loops
 - https://www.datacamp.com/statement-of-accomplishment/course/1249f735e9a51c7ea7d95738027f9968fad410d5
 
+## Pandas Foundations
+- Data ingestion & inspection
+- Exploratory data analysis
+- Time series in pandas
+- https://www.datacamp.com/statement-of-accomplishment/course/6cdcf13b3123653e53a84110551cda4b7ef32ae7
+
 ## Data Manipulation with Pandas
 - Transforming Data
 - Aggregating Data
@@ -236,6 +242,40 @@
 - Record linkage
 - https://www.datacamp.com/statement-of-accomplishment/course/c69b503e0fcf40376d854b95d20f11b5e096ecf0
 
+## Working with Dates and Times in Python
+- Dates and Calendars
+- Combining Dates and Times
+- Time Zones and Daylight Saving
+- Easy and Powerful: Dates and Times in Pandas
+- https://www.datacamp.com/statement-of-accomplishment/course/b3b39c7b9d56f126e7f0e8909ba7b3c84fc808c4
+
+## Writing Functions in Python
+- Best Practices
+- Context Managers
+- Decorators
+- More on Decorators
+- https://www.datacamp.com/statement-of-accomplishment/course/cccd4da54bf1588d0f078fba0579335d1e60b4d1
+
+## Exploratory Data Analysis in Python
+- Read, clean, and validate
+- Distributions
+- Relationships
+- Multivariate Thinking
+- https://www.datacamp.com/statement-of-accomplishment/course/26a9f47ab9b10498957af591bbc281b836c24ea4
+
+## Analyzing Police Activity with pandas
+- Preparing the data for analysis
+- Exploring the relationship between gender and policing
+- Visual exploratory data analysis
+- Analyzing the effect of weather on policing
+- https://www.datacamp.com/statement-of-accomplishment/course/7cf53e3a5ded47ae2d0deadf2668708a7c851f18
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1
+
+
+
+# A
+## B
+### C

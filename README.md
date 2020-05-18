@@ -270,6 +270,23 @@
 - Analyzing the effect of weather on policing
 - https://www.datacamp.com/statement-of-accomplishment/course/7cf53e3a5ded47ae2d0deadf2668708a7c851f18
 
+## Statistical Thinking in Python (Part 1)
+- Graphical exploratory data analysis
+- Quantitative exploratory data analysis
+- Thinking probabilistically: Discrete variables
+- Thinking probabilistically: Continuous variables
+- https://www.datacamp.com/statement-of-accomplishment/course/2510a5a498d0c9d63ae1acf6beba8287ed4d8f95
+
+## Statistical Thinking in Python (Part 2)
+- Parameter estimation by optimization
+- Bootstrap confidence intervals
+- Introduction to hypothesis testing
+- Hypothesis test examples
+- https://www.datacamp.com/statement-of-accomplishment/course/40190d3fa694e10483416873a4d3f0d73dc320cc
+
+## 
+
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

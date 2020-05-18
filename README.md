@@ -160,6 +160,7 @@
 # DataCamp
 
 ## Data Scientist with Python
+https://www.datacamp.com/statement-of-accomplishment/track/4defa4e8ccb7125ecf946043416f25c0e09828a3
 
 ### Introduction to Python
 - Python Basics
@@ -301,7 +302,27 @@
 - Discovering interpretable features
 - https://www.datacamp.com/statement-of-accomplishment/course/e4d104a7675a916c87109b712dd30eb57fad2d08
 
-### 
+### Machine Learning with Tree-Based Models in Python
+- Classification and Regression Trees
+- The Bias-Variance Tradeoff
+- Bagging and Random Forests
+- Boosting
+- Model Tuning
+- https://www.datacamp.com/statement-of-accomplishment/course/3b7ed51db0388b988a276c94ceeebe543b3df94e
+
+### Case Study: Machine Learning in Python
+- Exploring the raw data
+- Creating a simple first model
+- Improving your model
+- Learning from the experts
+- https://www.datacamp.com/statement-of-accomplishment/course/1425e788e3c6acf17d57371479d4b0c182bae5af
+
+### Cluster Analysis in Python
+- Introduction to Clustering
+- Hierarchical Clustering
+- K-Means Clustering
+- Clustering in Real World
+- https://www.datacamp.com/statement-of-accomplishment/course/84e29075aea6af4231e9bac5740508402ef88fec
 
 
 ## Extra

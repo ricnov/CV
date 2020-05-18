@@ -324,6 +324,14 @@ https://www.datacamp.com/statement-of-accomplishment/track/4defa4e8ccb7125ecf946
 - Clustering in Real World
 - https://www.datacamp.com/statement-of-accomplishment/course/84e29075aea6af4231e9bac5740508402ef88fec
 
+## Data Analyst with Python
+
+### Introduction to SQL
+- Selecting columns
+- Filtering rows
+- Aggregate Functions
+- Sorting and grouping
+
 
 ## Extra
 - https://www.codewars.com/users/istwine/stats

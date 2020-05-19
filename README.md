@@ -442,7 +442,19 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Dealing with Text Data
 - https://www.datacamp.com/statement-of-accomplishment/course/908b14d25c1875215a4cd2b921a90d60394db883
 
+### Model Validation in Python
+- Basic Modeling in scikit-learn
+- Validation Basics
+- Cross Validation
+- Selecting the best model with Hyperparameter tuning
+- https://www.datacamp.com/statement-of-accomplishment/course/b8a1ca7ba4bcb9843811842e387e20cd234f0c2f
 
+### Introduction to Natural Language Processing in Python
+- Regular expressions & word tokenization
+- Simple topic identification
+- Named-entity recognition
+- Building a "fake news" classifier
+- https://www.datacamp.com/statement-of-accomplishment/course/9a5082f9587c06bb0d49993d92b3e7bf5023a438
 
 ## Extra
 - https://www.codewars.com/users/istwine/stats

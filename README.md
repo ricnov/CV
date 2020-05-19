@@ -427,6 +427,23 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Feature Engineering
 - Selecting features for modeling
 - https://www.datacamp.com/statement-of-accomplishment/course/a4aed68dc195a266eb8fc65c9e13235f0f95f744
+
+### Machine Learning for Time Series Data in Python
+- Time Series and Machine Learning Primer
+- Time Series as Inputs to a Model
+- Predicting Time Series Data
+- Validating and Inspecting Time Series Models
+- https://www.datacamp.com/statement-of-accomplishment/course/0d24b7297ccf427dec2205b422c4287411177c0f
+
+### Feature Engineering for Machine Learning in Python
+- Creating Features
+- Dealing with Messy Data
+- Conforming to Statistical Assumptions
+- Dealing with Text Data
+- https://www.datacamp.com/statement-of-accomplishment/course/908b14d25c1875215a4cd2b921a90d60394db883
+
+
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

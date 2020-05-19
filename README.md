@@ -362,8 +362,6 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Creating and Manipulating your own Databases
 - https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c563736dfff3716e800b5
 
-
-
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

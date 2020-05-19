@@ -325,12 +325,43 @@ https://www.datacamp.com/statement-of-accomplishment/track/4defa4e8ccb7125ecf946
 - https://www.datacamp.com/statement-of-accomplishment/course/84e29075aea6af4231e9bac5740508402ef88fec
 
 ## Data Analyst with Python
+https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c563736dfff3716e800b5
 
 ### Introduction to SQL
 - Selecting columns
 - Filtering rows
 - Aggregate Functions
 - Sorting and grouping
+- https://www.datacamp.com/statement-of-accomplishment/course/64146da9cee29fcb70a8caeb9f699a1970356f1f
+
+### Streamlined Data Ingestion with pandas
+- Importing Data from Flat Files
+- Importing Data From Excel Files
+- Importing Data from Databases
+- Importing JSON Data and Working with APIs
+- https://www.datacamp.com/statement-of-accomplishment/course/13dd56296f5c167e1195a5da3abba3bc903d4018
+
+### Introduction to Relational Databases in SQL
+- Database
+- Enforce data consistency with attribute constraints
+- Uniquely identify records with key constraints
+- Glue together tables with foreign keys
+- https://www.datacamp.com/statement-of-accomplishment/course/e86b4d288c4a4e47668d2d3a26271239a29bcefb
+
+### Joining Data in SQL
+- Introduction to joins
+- Outer joins and cross joins
+- Set theory clauses
+- Subqueries
+- https://www.datacamp.com/statement-of-accomplishment/course/e6aadd798746f0675d4781a4062ce79c4ad5613d
+
+### Introduction to Databases in Python
+- Basics of Relational Databases
+- Applying Filtering, Ordering and Grouping to Queries
+- Advanced SQL Queries
+- Creating and Manipulating your own Databases
+- https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c563736dfff3716e800b5
+
 
 
 ## Extra

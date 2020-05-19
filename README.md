@@ -407,7 +407,26 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Using XGBoost in pipelines
 - https://www.datacamp.com/statement-of-accomplishment/course/3b7ed51db0388b988a276c94ceeebe543b3df94e
 
+### Cluster Analysis in Python
+- Introduction to Clustering
+- Hierarchical Clustering
+- K-Means Clustering
+- Clustering in Real World
+- https://www.datacamp.com/statement-of-accomplishment/course/84e29075aea6af4231e9bac5740508402ef88fec
 
+### Dimensionality Reduction in Python
+- Exploring high dimensional data
+- Feature selection I, selecting for feature information
+- Feature selection II, selecting for model accuracy
+- Feature extraction
+- https://www.datacamp.com/statement-of-accomplishment/course/05319ba262cd70d2075687ced39405af068963b7
+
+### Preprocessing for Machine Learning in Python
+- Introduction to Data Preprocessing
+- Standardizing Data
+- Feature Engineering
+- Selecting features for modeling
+- https://www.datacamp.com/statement-of-accomplishment/course/a4aed68dc195a266eb8fc65c9e13235f0f95f744
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

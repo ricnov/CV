@@ -334,6 +334,13 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Sorting and grouping
 - https://www.datacamp.com/statement-of-accomplishment/course/64146da9cee29fcb70a8caeb9f699a1970356f1f
 
+### Intermediate SQL
+- CASE statements
+- Short and Simple Subqueries
+- Correlated Queries, Nested Queries, and Common Table Expressions
+- Window Functions
+- https://www.datacamp.com/statement-of-accomplishment/course/704442b106bede897f692ed2d43f4f72f0163601 
+
 ### Streamlined Data Ingestion with pandas
 - Importing Data from Flat Files
 - Importing Data From Excel Files
@@ -361,6 +368,45 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Advanced SQL Queries
 - Creating and Manipulating your own Databases
 - https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c563736dfff3716e800b5
+
+## Machine Learning Scientist with Python
+
+### Supervised Learning with scikit-learn
+- Classification
+- Regression
+- Fine-tuning model
+- Preprocessing and pipelines
+- https://www.datacamp.com/statement-of-accomplishment/course/21e6baa27fd626ae83263c0cd9dafe7a0cda6fac
+
+### Unsupervised Learning in Python
+- Clustering for dataset exploration
+- Visualization with hierarchical clustering and t-SNE
+- Decorrelating your data and dimension reduction
+- Discovering interpretable features
+- https://www.datacamp.com/statement-of-accomplishment/course/e4d104a7675a916c87109b712dd30eb57fad2d08
+
+### Linear Classifiers in Python
+- Applying logistic regression and SVM
+- Loss functions
+- Logistic regression
+- Support Vector Machines
+- https://www.datacamp.com/statement-of-accomplishment/course/19330af01adff2de8144113050c6e428e883c010
+
+### Machine Learning with Tree-Based Models in Python
+- Classification and Regression Trees
+- The Bias-Variance Tradeoff
+- Bagging and Random Forests
+- Boosting
+- Model Tuning
+- https://www.datacamp.com/statement-of-accomplishment/course/3b7ed51db0388b988a276c94ceeebe543b3df94e
+
+### Extreme Gradient Boosting with XGBoost
+- Classification with XGBoost
+- Regression with XGBoost
+- Fine-tuning your XGBoost model
+- Using XGBoost in pipelines
+- https://www.datacamp.com/statement-of-accomplishment/course/3b7ed51db0388b988a276c94ceeebe543b3df94e
+
 
 ## Extra
 - https://www.codewars.com/users/istwine/stats

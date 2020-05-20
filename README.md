@@ -382,6 +382,7 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c563736dfff3716e800b5
 
 ## Machine Learning Scientist with Python
+https://www.datacamp.com/statement-of-accomplishment/track/2fb743dfe6c9f233c6a524397a0cbbb5dae6633a
 
 ### Supervised Learning with scikit-learn
 - Classification
@@ -516,6 +517,34 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Multiple convolutional layers into a deep network
 - Understanding and Improving Deep Convolutional Networks
 - https://www.datacamp.com/statement-of-accomplishment/course/e5ba3e450e3a1e315c29bd222b125b0981c993f7
+
+### Hyperparameter Tuning in Python
+- Hyperparameters and Parameters
+- Grid search
+- Random Search
+- Informed Search
+- https://www.datacamp.com/statement-of-accomplishment/course/b7b7610776af6814b702b32c15498061e692e61d
+
+### Introduction to PySpark
+- Introduction to PySpark
+- Manipulating data
+- Getting started with machine learning pipelines
+- Model tuning and selection
+- https://www.datacamp.com/statement-of-accomplishment/course/0b2a9e787a061a507a42ee8f4c418760a1670524
+
+### Machine Learning with PySpark
+- Introduction
+- Classification
+- Regression 
+- Ensembles & Pipelines
+- https://www.datacamp.com/statement-of-accomplishment/course/d7a86227867044338047764edee1eac109aa7e35
+
+### Kaggle Competition in Python
+- Kaggle competitions process
+- Dive into the Competition
+- Feature Engineering
+- Modeling
+- https://www.datacamp.com/statement-of-accomplishment/course/422886e116b36d4783898a3831213bfba2cc8832
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

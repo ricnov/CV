@@ -1,4 +1,4 @@
-# Extended CV
+# Extended CV 
 
 ## Numerical linear algebra
 - Linear systems of equations
@@ -17,6 +17,18 @@
 - Optimization = nonlinear programming
 - Techniques for large, sparse problems
 - Numerical data analysis (= numerical statistics)
+
+## Numerical Analysis and Optimization
+- Singular value decomposition (SVD)
+- Moore–Penrose inverse
+- Condition number
+- Accuracy and stability of numerical algorithms
+- LU decomposition
+- Partial pivoting
+- Cholesky decomposition
+- Sparse Factorization
+- Fill-in
+- 
 
 ## Visualization (2D and 3D computational geometry)
 - Parameter estimation (least squares, maximum likelihood)

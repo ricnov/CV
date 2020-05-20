@@ -498,6 +498,12 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Advanced Operations, Detecting Faces and Features
 - https://www.datacamp.com/statement-of-accomplishment/course/91c49b07eb2a62a5c1257c3d2ea1efa0c77a05f9
 
+### Image Processing with Keras in Python
+- Image Processing With Neural Networks
+- Convolutions
+- Multiple convolutional layers into a deep network
+- Understanding and Improving Deep Convolutional Networks
+- https://www.datacamp.com/statement-of-accomplishment/course/e5ba3e450e3a1e315c29bd222b125b0981c993f7
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

@@ -456,6 +456,30 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Building a "fake news" classifier
 - https://www.datacamp.com/statement-of-accomplishment/course/9a5082f9587c06bb0d49993d92b3e7bf5023a438
 
+### Feature Engineering for NLP in Python
+- Basic features and readability scores
+- Text preprocessing, POS tagging and NER
+- N-Gram models
+- TF-IDF and similarity scores
+- https://www.datacamp.com/statement-of-accomplishment/course/5fc08b633beab972d9a8ed010f29d8a791b86c1f
+
+### Introduction to TensorFlow in Python
+- Introduction to TensorFlow
+- Linear models
+- Neural Networks
+- High Level APIs
+- https://www.datacamp.com/statement-of-accomplishment/course/24f47123941dccc8b6b55e0287b307c221203bb1
+
+### Introduction to Deep Learning in Python
+- Basics of deep learning and neural networks
+- Optimizing a neural network with backward propagation
+- Building deep learning models with keras
+- Fine-tuning keras models
+- https://www.datacamp.com/statement-of-accomplishment/course/845a8ecf7dc652b4c9d82061cc29b076fa385e3c
+
+### 
+
+
 ## Extra
 - https://www.codewars.com/users/istwine/stats
 - https://www.hackerrank.com/cvecchi76?hr_r=1

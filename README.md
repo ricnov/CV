@@ -477,8 +477,26 @@ https://www.datacamp.com/statement-of-accomplishment/track/df978de64672fadfd03c5
 - Fine-tuning keras models
 - https://www.datacamp.com/statement-of-accomplishment/course/845a8ecf7dc652b4c9d82061cc29b076fa385e3c
 
-### 
+### Introduction to Deep Learning with Keras
+- Introducing Keras
+- Binary, multi-class, and multi-label problems with neural networks
+- Improving Model Performance
+- Advanced Model Architectures
+- https://www.datacamp.com/statement-of-accomplishment/course/2123aac85ff297d8ddbeaf09530d94832c509d1f
 
+### Advanced Deep Learning with Keras
+- The Keras Functional API
+- Two Input Networks Using Categorical Embeddings, Shared Layers, and Merge Layers
+- Multiple Inputs: 3 Inputs
+- Multiple Outputs
+- https://www.datacamp.com/statement-of-accomplishment/course/d9810fe288c78dbe92b0a8e73f70748874128de1
+
+### Image Processing in Python
+- Introducing Image Processing and scikit-image
+- Filters, Contrast, Transformation and Morphology
+- Image restoration, Noise, Segmentation and Contours
+- Advanced Operations, Detecting Faces and Features
+- https://www.datacamp.com/statement-of-accomplishment/course/91c49b07eb2a62a5c1257c3d2ea1efa0c77a05f9
 
 ## Extra
 - https://www.codewars.com/users/istwine/stats

@@ -532,6 +532,13 @@ https://www.datacamp.com/statement-of-accomplishment/track/2fb743dfe6c9f233c6a52
 - Model tuning and selection
 - https://www.datacamp.com/statement-of-accomplishment/course/0b2a9e787a061a507a42ee8f4c418760a1670524
 
+### Big Data Fundamentals with PySpark
+- Apache Spark
+- Programming in PySpark RDD’s
+- PySpark SQL & DataFrames
+- Machine Learning with PySpark MLlib
+- https://www.datacamp.com/statement-of-accomplishment/course/b8fdf6f871bece26cdc133f3d3433b2b6883dbb7
+
 ### Machine Learning with PySpark
 - Introduction
 - Classification

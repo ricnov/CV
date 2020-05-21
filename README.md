@@ -539,6 +539,27 @@ https://www.datacamp.com/statement-of-accomplishment/track/2fb743dfe6c9f233c6a52
 - Machine Learning with PySpark MLlib
 - https://www.datacamp.com/statement-of-accomplishment/course/b8fdf6f871bece26cdc133f3d3433b2b6883dbb7
 
+### Intro to data cleaning with Apache Spark
+- DataFrame details
+- Manipulating DataFrames in the real world
+- Improving Performance
+- Complex processing and data pipelines
+- https://www.datacamp.com/statement-of-accomplishment/course/c5ad387c02f74848dcac401052567355807890ec
+
+### Feature Engineering with PySpark
+- Exploratory Data Analysis
+- Wrangling with Spark Functions
+- Feature Engineering
+- Building a Model
+- https://www.datacamp.com/statement-of-accomplishment/course/81f3306b821a50a2053f4770f94edfee266d115e
+
+### Building Recommendation Engines with PySpark
+- Recommendations engines
+- Alternating Least Squares algorithm
+- Cross-validated ALS model
+- Real-life ALS recommendation engine
+- https://www.datacamp.com/statement-of-accomplishment/course/a55e7ad416ee97c7868996247df383fbcc422394
+
 ### Machine Learning with PySpark
 - Introduction
 - Classification

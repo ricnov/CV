@@ -18,7 +18,7 @@
 - Techniques for large, sparse problems
 - Numerical data analysis (= numerical statistics)
 
-## Numerical Analysis and Optimization
+## Linear Algebra, Numerical Analysis and Optimization
 - Singular value decomposition (SVD)
 - Moore–Penrose inverse
 - Condition number
@@ -28,7 +28,20 @@
 - Cholesky decomposition
 - Sparse Factorization
 - Fill-in
-- 
+- Least-squares function approximation
+- Gaussian elimination
+- QR decomposition and pivoting
+- Householder transformation
+- Givens method
+- Eigenvalues and eigenvectors
+- Introduction to perturbation theory 
+- Numerical methods for linear least squares
+- Ill-posed problem
+- Spectral theorem
+- Hessenberg matrix
+- QR algorithm
+- Jacobi method
+- Jacobi eigenvalue algorithm
 
 ## Visualization (2D and 3D computational geometry)
 - Parameter estimation (least squares, maximum likelihood)

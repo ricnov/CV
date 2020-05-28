@@ -6,6 +6,7 @@
 - Linear programming (linear optimization)
 - Techniques for large, sparse problems
 
+
 ## Numerical analysis
 - Function evaluation
 - Automatic and numerical differentiation

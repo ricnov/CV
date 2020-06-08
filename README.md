@@ -44,6 +44,41 @@
 - Jacobi method
 - Jacobi eigenvalue algorithm
 
+## Nonlinear Dynamics: Mathematical and Computational Approaches
+- Maps and difference equations
+- Transients and attractors
+- Parameters and bifurcations
+- Return maps
+- Bifurcation diagram
+- Feigenbaum and universality
+- State variables and state space
+- Nonlinearity and nonintegrability
+- Fixed points and stability
+- Saddle points and eigenvectors
+- Stable and unstable manifolds
+- Attractors, strange and otherwise
+- ODEs, vector fiedls and dynamical landscapes
+- ODE solvers
+- Forward and backward Euler
+- ODEs error and adaptation
+- Production ODE solvers
+- Numerical dynamics and due diligence
+- Shadowing and chaos
+- Dynamics and state-space deformation
+- Lyapunov exponents
+- Sections and projections
+- Unstable periodic orbits
+- Fractals and chaos
+- Time-series analysis and the observer problem
+- Delay-coordinate embedding
+- Topology, diffeomorphisms and reconstruction of dynamics
+- Estimating embedding parameters
+- Caveats and extensions
+- Computing fractal dimensions
+- Computing Lyapunov exponents
+- Noise and filtering
+- Applications
+
 ## Visualization (2D and 3D computational geometry)
 - Parameter estimation (least squares, maximum likelihood)
 - Prediction

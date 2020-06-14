@@ -2,7 +2,6 @@
 
 ## Numerical linear algebra
 - Linear systems of equations
-  - abc
 - Eigenvalue problems
 - Linear programming (linear optimization)
 - Techniques for large, sparse problems

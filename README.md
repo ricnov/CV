@@ -43,6 +43,14 @@
 - QR algorithm
 - Jacobi method
 - Jacobi eigenvalue algorithm
+- Inverse iteration
+- Power iteration
+- Rayleigh quotient iteration
+- Krylov subspace
+- Method of Arnoldi, Lanczos, Conjugate gradient, IDR(s) (Induced dimension reduction), GMRES (generalized minimum residual), BiCGSTAB (biconjugate gradient stabilized), QMR (quasi minimal residual), TFQMR (transpose-free QMR), and MINRES (minimal residual) methods.
+- Preconditioning
+- Incomplete Cholesky factorization
+
 ## Computational Linear Algebra with Python
 - Matrix and Tensor Products
 -Matrix Decompositions
@@ -88,6 +96,7 @@
 - Two-phase approach to finding eigenvalues
 - Arnoldi Iteration
 - Gram-Schmidt
+- Householder
 - Stability Examples
 
 ## Nonlinear Dynamics: Mathematical and Computational Approaches

@@ -43,6 +43,52 @@
 - QR algorithm
 - Jacobi method
 - Jacobi eigenvalue algorithm
+## Computational Linear Algebra with Python
+- Matrix and Tensor Products
+-Matrix Decompositions
+- Accuracy
+- Memory use
+- Speed
+- Parallelization & Vectorization
+- Topic Frequency-Inverse Document Frequency (TF-IDF)
+- Singular Value Decomposition (SVD)
+- Non-negative Matrix Factorization (NMF)
+- Stochastic Gradient Descent (SGD)
+- Intro to PyTorch
+- Truncated SVD
+- Load and View Video Data
+- SVD
+- Principal Component Analysis (PCA)
+- L1 Norm Induces Sparsity
+- Robust PCA
+- LU factorization
+- Stability of LU
+- LU factorization with Pivoting
+- History of Gaussian Elimination
+- Block Matrix Multiplication
+- Broadcasting
+- Sparse matrices
+- CT Scans and Compressed Sensing
+- L1 and L2 regression
+- Linear regression in sklearn
+- Polynomial Features
+- Speeding up with Numba
+- Regularization and Noise
+- Normal equations and Cholesky factorization
+- QR factorization
+- SVD
+- Timing Comparison
+- Conditioning & Stability
+- Full vs Reduced Factorizations
+- Matrix Inversion Unstabiity
+- SVD
+- DBpedia Dataset
+- Power Method
+- QR Algorithm
+- Two-phase approach to finding eigenvalues
+- Arnoldi Iteration
+- Gram-Schmidt
+- Stability Examples
 
 ## Nonlinear Dynamics: Mathematical and Computational Approaches
 - Maps and difference equations

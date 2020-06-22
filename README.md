@@ -255,6 +255,7 @@
 - https://www.freecodecamp.org/certification/istwine/responsive-web-design
 
 ## Scientific Computing and Python for Data Science
+https://wqu.thedataincubator.com/certificate/6583903196282880
 - Program flow and data structures
 - Data structures, algorithms and classes
 - Data formats

@@ -151,6 +151,53 @@
 - Integral equations (and regularization)
 - Non-numerical algorithms
 
+## Financial Mathematics
+- leggi di capitalizzazione
+- tassi di interesse a pronti e a termine
+- valutazione di obbligazioni-scelta di investimenti
+- rischio di tasso di interesse, duration, indicatori di variabilità
+- teoria dell’immunizzazione
+- teoria dell’utilità attesa
+- avversione al rischio
+- analisi media-varianza
+- scelte di portafoglio tra un titolo rischioso e uno privo di rischio
+- scelte di portafoglio tra un titolo privo di rischio e N titoli rischiosi
+- scelta di assicurazione
+- frontiera dei portafogli con titoli rischiosi
+- frontiera dei portafogli con un titolo privo di rischio
+- scelte di portafoglio e frontiera dei portafogli
+- capital asset pricing model
+- assenza opportunità di arbitraggio
+- teorema fondamentale dell’asset pricing
+- arbitrage pricing theory
+- albero binomiale
+- mapping del rischio: portafoglio azionario, obbligazionario, derivati
+- Value at Risk, Expected shortfall
+- principali metodologie per la stima del VaR (full evaluation e metodo delta-normal), backtesting del VaR
+- funzionamento sistema finanziario
+- intermediazione finanziaria e creditizia
+- mercato monetario, obbligazionario, azionario, dei cambi
+- ruolo della Banca Centrale
+- politica monetaria
+- gestione di un intermediario finanziario/creditizio
+- Seminario su Rapporto Stabilità Finanziaria (BDI)
+- bootstrap della curva, tassi equivalenti, tassi a termine (relazione con quelli a pronti),
+- valutazione di obbligazioni
+- TIR, TAEG
+- Rendimento investimento, tasso cedolare, tasso di rendimento (HP, scadenza e aspettative di tasso)
+- rischio di tasso di interesse, duration, immunizzazione
+- individuazione del grado di avversione al rischio
+- costruzione frontiera
+- analisi al variare della correlazione, dei titoli, lunghezza delle serie storiche
+- determinazione del portafoglio tangente
+- scelte di portafoglio e frontiera dei portafogli con grado di avversione al rischio
+- albero binomiale: opzioni americane, payoff complessi
+- bound di non arbitraggio su opzioni
+- copertura tramite strategie con derivati
+- stima del VaR, ES: metodi parametrici, simulazione stroica
+- metodo delta-normal
+- Backtesting del VaR
+
 ## Python
 - Calling functions and defining our own, and using Python's builtin documentation
 - Using booleans for branching logic

@@ -313,13 +313,14 @@ https://wqu.thedataincubator.com/certificate/6583903196282880
 - Data munging
 
 ## Machine Learning and Statistical Analysis
-- Regression and classification
-- Metrics and overfitting
-- Model selection
-- Principal Component Analysis and Dimensionality Reduction, feature engineering
-- Statistical methods and nonparametric analysis, probability distributions
-- Ensemble methods
-- Support Vector Machine and Natural Language Processing
+- Introduction to machine learning and Scikit-learn API
+- Regression, classification, & model selection 
+- Feature engineering
+- NLP and dimension reduction 
+- KNeighbors, clustering and ensemble models
+- Support vector machines
+- Time series analysis and anomaly detection
+- Clustering
 
 # DataCamp
 

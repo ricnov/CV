@@ -302,6 +302,7 @@
 - Decisions, Iterations, Scenarios with StudioX
 - Error Handling in StudioX
 - File and Folder AUtomation with StudioX
+- The StudioX Project Notebook
 
 ## Responsive Web Design
 - Basic HTML and HTML5

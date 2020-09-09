@@ -295,8 +295,13 @@
 - https://app.diplomasafe.com/en-US/diploma/d46196ea682da5da04ead17a72cbdbbc3ec77e560/essential-financial-modelling/linkedin_cert
 
 ## UiPath StudioX
-- RPA Starter https://cloud.contentraven.com/crdownloadfiles/index.aspx?act=8MH4sSWyowEaN0eXRAsy+A__&id=nd8sUfjxiVA_ 
-
+- RPA Starter 
+- Get Started with StudioX
+- User Interface Automation with StudioX
+- Word Automation with StudioX
+- Decisions, Iterations, Scenarios with StudioX
+- Error Handling in StudioX
+- File and Folder AUtomation with StudioX
 
 ## Responsive Web Design
 - Basic HTML and HTML5

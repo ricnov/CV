@@ -295,7 +295,7 @@
 - https://app.diplomasafe.com/en-US/diploma/d46196ea682da5da04ead17a72cbdbbc3ec77e560/essential-financial-modelling/linkedin_cert
 
 ## UiPath StudioX
-- RPA Starter https://cloud.contentraven.com/crdownloadfiles/index.aspx?act=8MH4sSWyowEaN0eXRAsy+A__&id=nd8sUfjxiVA_
+- RPA Starter https://cloud.contentraven.com/crdownloadfiles/index.aspx?act=8MH4sSWyowEaN0eXRAsy+A__&id=nd8sUfjxiVA_ 
 
 
 ## Responsive Web Design

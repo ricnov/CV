@@ -303,6 +303,7 @@
 - Error Handling in StudioX
 - File and Folder AUtomation with StudioX
 - The StudioX Project Notebook
+- Outlook Automation with StudioX
 
 ## Responsive Web Design
 - Basic HTML and HTML5

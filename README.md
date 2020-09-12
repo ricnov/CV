@@ -326,6 +326,7 @@ https://wqu.thedataincubator.com/certificate/6583903196282880
 - Data munging
 
 ## Machine Learning and Statistical Analysis
+https://wqu.thedataincubator.com/certificate/4514208225951744
 - Introduction to machine learning and Scikit-learn API
 - Regression, classification, & model selection 
 - Feature engineering

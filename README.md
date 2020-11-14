@@ -298,7 +298,9 @@
 - [Python For Data Science: Fundamentals Course](https://app.dataquest.io/view_cert/I3ZGXVQOIL4KJHM6HY5C/)
 - [Python For Data Science: Intermediate Course](https://app.dataquest.io/view_cert/4YGOFW22SH3MPWHZU0Q2/)
 
-## UiPath StudioX
+# Uipath
+
+## [UiPath StudioX](https://learningpath.cdn.contentraven.com/crcloud/channelcertificates/2174/1340194/LearningPath_Certificate_09142020065300725.pdf?Expires=1605367336&Signature=Bi2SNPd7Pa5hQ4oeTliMFwmRA80V2Ri36QECktCFr~9TCp9bOvgTA1JrgHymyOZfktgT3966ymD8zlfHFCmnaf6kHH7DuDvgALHza2nhKohE5Yet4ljRCV5eilFWNPvGFCGg9hwOMC4YMx9olIb6QxFUUV6e78Sg41QNEwQqCe4_&Key-Pair-Id=APKAILVQOTZN4SHI6YSA)
 - RPA Starter 
 - Get Started with StudioX
 - User Interface Automation with StudioX

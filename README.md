@@ -319,7 +319,7 @@
 - CSS Grid
 - https://www.freecodecamp.org/certification/istwine/responsive-web-design
 
-## Scientific Computing and Python for Data Science
+## WorldQuant University - Scientific Computing and Python for Data Science
 https://wqu.thedataincubator.com/certificate/6583903196282880
 - Program flow and data structures
 - Data structures, algorithms and classes
@@ -330,7 +330,7 @@ https://wqu.thedataincubator.com/certificate/6583903196282880
 - SQL and Object-Relational Mapping
 - Data munging
 
-## Machine Learning and Statistical Analysis
+## WorldQuant University - Machine Learning and Statistical Analysis
 https://wqu.thedataincubator.com/certificate/4514208225951744
 - Introduction to machine learning and Scikit-learn API
 - Regression, classification, & model selection 

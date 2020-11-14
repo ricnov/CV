@@ -312,6 +312,26 @@
 - Outlook Automation with StudioX
 - Virtual Automation Bootcamp with StudioX
 
+## [UiPath Studio](https://learningpath.cdn.contentraven.com/crcloud/channelcertificates/1990/1340194/LearningPath_Certificate_10222020110342242.pdf?Expires=1605367490&Signature=lA3gDtKkYwEcnDVZL42ZQ5R~HkwqzZ36wvi2epmqumLC-IzkNUNGK-BQOEjx5WQwnVgeZDqdArQDkwwOQzbYdTNNGZgkJ12OreRCZtuFqbX-YM4ez1sMkiGx20BfaH3G2yiGelFc~e9fO8aq2hL-9pCG~vHM7wgr~NbIAO7JbUs_&Key-Pair-Id=APKAILVQOTZN4SHI6YSA)
+- Introduction to the RPA Developer Role
+- Variables, Data Types and Control Flow
+- Data Manipulation
+- Excel and Data Tables
+- UI Interactions
+- Selectors
+- Project Organization
+- Error and Exception Handling
+- Debugging
+- Thumbnail
+- PDF Automation
+- E-mail Automation
+- Orchestrator for Developers
+- Robotic Enterprise Framework Overview
+
+## [RPA Business Analyst Foundation](https://learningpath.cdn.contentraven.com/crcloud/channelcertificates/1995/1340194/LearningPath_Certificate_11142020122743067.pdf?Expires=1605367671&Signature=Pd1gjvlA~f6p7pNPxcd0L~yXiyd6o2RMHRXlXOP0MgeA99MzciN7VGx3IC9YrDMLSEOQ8J3MFH-VQEOQg-fjYnnpHA5ls4zKX3kDQvtBDQ4mYPAKkXRmK72R7eCLfN7JhMnAthkbCFAg~uCMPMzOHWIMr2DdsXQ2FHmA8zfrkb8_&Key-Pair-Id=APKAILVQOTZN4SHI6YSA)
+- RPA Business Analysis Fundamentals
+
+
 ## Responsive Web Design
 - Basic HTML and HTML5
 - Basic CSS

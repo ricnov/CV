@@ -294,6 +294,9 @@
 ## Essential Financial Modelling
 - https://app.diplomasafe.com/en-US/diploma/d46196ea682da5da04ead17a72cbdbbc3ec77e560/essential-financial-modelling/linkedin_cert
 
+## Data Scientist in Python
+- [Python For Data Science: Fundamentals Course](https://app.dataquest.io/view_cert/I3ZGXVQOIL4KJHM6HY5C/)
+
 ## UiPath StudioX
 - RPA Starter 
 - Get Started with StudioX
